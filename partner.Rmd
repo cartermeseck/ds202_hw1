@@ -1,0 +1,20 @@
+---
+title: "partner"
+author : "Ryan Herren"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Partner's Full Name : Chris Meseck  
+Partner's Github Username : @chrismeseck  
+Most Recent Commit : added two files "Carter Meseck Lab 1"  
+Most Recent Commit ID: 6d27b195d5fab080fe06539cf725a2624232183c  
+
+When I tried to knit his hw1.rmd, it failed because it was unable to find the location of the .png file that Carter used  
+
+I encounted the error of missing file path  
