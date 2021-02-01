@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
+My Full Name : Ryan Herren  
+My Github Username : @ryanherren  
 Partner's Full Name : Chris Meseck  
 Partner's Github Username : @chrismeseck  
 Most Recent Commit : added two files "Carter Meseck Lab 1"  
