@@ -1,0 +1,11 @@
+Name: Austin Nebel
+
+Username: austinnebel
+
+Last Commit: "added my own name and github username"
+
+Last Commit ID: 1832be4
+
+Knitting: I could not knit the hw1.Rmd file because the image 'ds.jpg' was not in the repo. 
+
+Errors: Make sure that all required files are located in the Git repository.
